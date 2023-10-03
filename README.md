@@ -34,8 +34,9 @@ Responsive Design: The app is fully responsive and optimized for different scree
 ![image](https://github.com/karthikreddy552/triveousAssesment/assets/107270037/742233a0-8846-4f04-a4af-11822f4c692b).
 
 Redirect : If Click On Read More It will redirect to officail news and get more Info.
-
 Deployed Link: https://64c0ea18ff6c2f4714a886cc--roaring-starburst-5792de.netlify.app/
+
+Demo video:https://drive.google.com/file/d/17P9WOJfFOefE0Z8Zgm6pEG8MT4T2gcWN/view?usp=sharing
 
 Technologies Used
 
